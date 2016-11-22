@@ -6,10 +6,8 @@
     * [ECMAScript 5](./ecmascript/es5.md)
     * [ECMAScript 6](./ecmascript/es6.md)
     * [ECMAScript 7](./ecmascript/es7.md)
-* [ECMAScript 6特性](./features/README.md)
+* [ECMAScript 6特性](./es6-features/README.md)
     * [箭头函数](./es6-features/Arrows.md)
     * [类](./es6-features/Arrows.md)
     * [Object对象扩展](./es6-features/Arrows.md)
-
-
-
+* [ECMAScript 7特性](./es7-features/README.md)
