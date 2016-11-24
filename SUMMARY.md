@@ -13,6 +13,7 @@
   * [箭头函数](./es6-features/Arrows.md)
   * [类](./es6-features/Classes.md)
   * [Object对象扩展](./es6-features/Enhanced-Object.md)
+  * [Map + Set + WeakMap + WeakSet](./es6-features/Map-Set-WeakMap-WeakSet.md)
 
 * [ECMAScript 7特性](./es7-features/README.md)
 
